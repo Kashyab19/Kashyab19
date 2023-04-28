@@ -30,3 +30,4 @@ I am a grad student at Northeastern University(Boston) majoring in Information S
 ### Finally it🙈
 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+<p align="center"><img src="https://gpvc.arturio.dev/Kashyab19" alt="Profile views"></p>
