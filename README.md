@@ -8,10 +8,6 @@ I am a grad student at Northeastern University(Boston) majoring in Information S
 
 🏆 2x Hackathon Winner at Harvard University, MA | 1x Hackathon Winner at LionHack 2023, NY
 
-👀 I am open to internship opportunities starting Summer'23 or Fall '23
-
-
-
 ### Skills 👨‍💻
 
 - Programming: Javascript, React Js, Node Js, Typescript(test cases), Java, Spring Boot and Reactive, Solidity, Hardhat, Foundry
