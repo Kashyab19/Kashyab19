@@ -2,19 +2,22 @@
 
 Hello everyone 👋,
 
-I hope you are having a wonderful day! I am happy to have you in my tech universe and happy to walk you through it! 🌎🚶 Let's start!
-
-I am a grad student at Northeastern University(Boston) majoring in Information Systems! I love to code, write articles about what I build and my experiences. 
+- I have co-founded a Chrome extension(~200 users) called "Easy Summaries" to generate one-click summaries using AI. I am learning iOS Development, and DevOps for a full-stack experience. (Open to work since August 2024)
+- I love to code and write articles sometimes about what I build and my experiences. 
+- I am a Northeastern University(Boston) graduate in Information Systems! 
 
 🏆 2x Hackathon Winner at Harvard University, MA | 1x Hackathon Winner at LionHack 2023, NY
 
 ### Skills 👨‍💻
 
-- Programming: Javascript, React Js, Node Js, Typescript(test cases), Java, Spring Boot and Reactive, Solidity, Hardhat, Foundry
+- Web Programming: Javascript, React Js, Node Js, Typescript, Java, Spring Boot and Reactive, Golang
+- Blockchain Programming: Solidity, Hardhat, Foundry(beginner)
+- DB Skills: Cassandra, Postgres, MySQL, MongoDB
+- DevOps: AWS EC2, AWS Keyspace, AWS S3, GCP
 - Management Skills: User Interviews, Build Empathy Maps, A/B Tests, Prototyping and wireframing, Market research, and analysis, Agile development methodologies, Excellent communication and presentation skills
 
 ### Socials and Blog 🌎
-(You can reach me through LinkedIn and "murali.k@northeastern.edu". Happy to discuss more about how I fit!)
+(You can reach me through LinkedIn and "murali.k@northeastern.edu". I'm happy to discuss more about how I fit!)
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://kashyabnarrates.substack.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyab-murali/) 
 
