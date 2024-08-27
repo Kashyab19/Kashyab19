@@ -1,4 +1,6 @@
-Hi 👋 [Open to work in the USA] 
+Hi 👋 
+
+[I am open to work in the USA]
 
 🎧 I am currently practicing leetcode and learning cloud!
 
