@@ -1,7 +1,5 @@
 Hi 👋 
 
-[I am open to work in the USA]
-
 🎧 I am currently practicing leetcode and learning cloud!
 
 A bit about me with a background in Software Engineering and DevOps:
